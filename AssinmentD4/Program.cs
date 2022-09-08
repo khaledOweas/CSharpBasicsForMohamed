@@ -11,6 +11,6 @@
 
 
 // Fetch .. i can see changes before pull 
-// Pull  .. To get updated code from source controle .. 
-// Push  .. 
-// Sync 
+// Pull  .. To get updated code from source control .. 
+// Push  .. To Push or Update The Source control .. 
+// Sync  .. pull and push 

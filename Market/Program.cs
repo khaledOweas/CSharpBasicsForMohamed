@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-
+﻿
 void MohamedProject()
 {
     pt("Welcome to Hyper Eltanen");
@@ -54,7 +53,7 @@ void MohamedProject()
 
     pt("************ ********* **************");
     Console.Beep();
-    string[] Bill = new string[5];
+    string[] Bill = new string[6];
 
     Bill[0] = ($"clint name is {name}");
     Bill[1] = ($"phonenumber is {phonenumber}");
@@ -63,7 +62,7 @@ void MohamedProject()
     Bill[4] = ($"Date time is {DateTime.Now}");
     Bill[5] = ($"price is residual is {residual}");
 
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < Bill.Length; i++)
     {
         pt(Bill[i]);
     }
@@ -78,7 +77,7 @@ void MohamedProject()
     Console.ReadKey();
 
 }
-// MohamedProject();
+MohamedProject();
 
 // array  >> length 
 // list  >> without length 
@@ -246,4 +245,4 @@ RePay:
     Console.ReadKey();
 }
 
-KhaledProject();
+//KhaledProject();

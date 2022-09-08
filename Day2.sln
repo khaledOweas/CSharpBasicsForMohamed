@@ -5,13 +5,15 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "concatenation", "concatenation\concatenation.csproj", "{0A2BC287-C82E-41D1-950B-C538242280ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayForLoop", "ArrayForLoop\ArrayForLoop.csproj", "{B79FF7CB-6C6B-4FB9-8577-C2351685EAAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayForLoop", "ArrayForLoop\ArrayForLoop.csproj", "{B79FF7CB-6C6B-4FB9-8577-C2351685EAAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketProject", "MarketProject\MarketProject.csproj", "{5343E6FB-9C38-45AC-8ED0-A2993A3A80AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketProject", "MarketProject\MarketProject.csproj", "{5343E6FB-9C38-45AC-8ED0-A2993A3A80AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EleanabyMall", "EleanabyMall\EleanabyMall.csproj", "{ACD854DA-06EF-4B0F-92BB-0F8B39499286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EleanabyMall", "EleanabyMall\EleanabyMall.csproj", "{ACD854DA-06EF-4B0F-92BB-0F8B39499286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssinmentD4", "AssinmentD4\AssinmentD4.csproj", "{EAB4D029-855A-4959-AC12-4E1AADD0F0A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssinmentD4", "AssinmentD4\AssinmentD4.csproj", "{EAB4D029-855A-4959-AC12-4E1AADD0F0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market", "Market\Market.csproj", "{13677DAC-FE83-4DD4-A6FD-77773D2E45C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EAB4D029-855A-4959-AC12-4E1AADD0F0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB4D029-855A-4959-AC12-4E1AADD0F0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB4D029-855A-4959-AC12-4E1AADD0F0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13677DAC-FE83-4DD4-A6FD-77773D2E45C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13677DAC-FE83-4DD4-A6FD-77773D2E45C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13677DAC-FE83-4DD4-A6FD-77773D2E45C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13677DAC-FE83-4DD4-A6FD-77773D2E45C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

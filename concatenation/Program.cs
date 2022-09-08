@@ -39,7 +39,7 @@ string GetFirstName(string n1, string c2, int g3, int i4)
 {
     //  return  "Full Name is " + n1  + "  " + c2 +"  ";
 
-    return $"Full Name is {n1} {c2} and my age is {g3}  and my Height is : {i4}";
+    return $"Full Name is {n1} {c2} and my age is {g3}  and my Height is : {i4} ";
 }
 string x = GetFirstName("Ahmed", "Mohamed", 60, 901);
 

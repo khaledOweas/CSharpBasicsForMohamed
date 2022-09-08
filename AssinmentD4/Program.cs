@@ -8,3 +8,9 @@
 // 6- Do NOT Forget Beeb in Console When Ask [Console.ReadLine()]
 // 7- You should Finished The First Video Of Course .. 
 // 8- Search About Boolean DataType . 
+
+
+// Fetch .. i can see changes before pull 
+// Pull  .. To get updated code from source controle .. 
+// Push  .. 
+// Sync 
